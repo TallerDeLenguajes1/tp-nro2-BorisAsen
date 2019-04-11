@@ -15,9 +15,9 @@ int main(){
 
 	for(f = 0;f<N; f++){
  		for(c = 0;c<M; c++){
-			cprintf("%d", mt[f][c]);
+			printf("%d", mt[f][c]);
 		}
-		cprintf("\n");
+		printf("\n");
 	}
 	return 0;
 }
