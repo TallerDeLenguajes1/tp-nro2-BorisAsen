@@ -1,0 +1,2 @@
+El archivo tp2_1_2.cpp no aparece en el repositorio local ya que este actualmente posee el contenido correspondiente 
+a la rama master, y este archivo se subio a la rama Opcion_2.
